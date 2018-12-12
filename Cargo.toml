@@ -1,0 +1,9 @@
+[package]
+name = "ssntp"
+version = "0.1.0"
+authors = ["Felix Wittwer <dev@felixwittwer.de>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32"
+chrono = "0.4"
